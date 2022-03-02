@@ -13,7 +13,7 @@ Wide rather than deep? Expose students to many different tools they might encoun
 
 * The big picture
     - data lifecycle
-    - reproducibility, reusibility, disoverability
+    - reproducibility, reusibility, discoverability
     - DMP as a living document
 
 * File system organization across major OS's
@@ -29,8 +29,9 @@ Wide rather than deep? Expose students to many different tools they might encoun
     - data and metadata
     - special data types: date, time, geolocation, etc. 
     - special values: null, NaN
+    - how to deal with outliers? when is imputation appropriate?
 
-* Working with tabular data -- awk, sort, join
+* Working with tabular data at the command line -- awk, sort, join
     - example biological application: working with GFF annotation data
 
 * Shell scripting -- bash
