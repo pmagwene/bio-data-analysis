@@ -2,6 +2,12 @@
 
 Draft notes for a grad course in biological data analysis and best practices
 
+## General idea
+
+Provide first year grad students with an overview of computing concepts and tools that are frequently used in the biological sciences. 
+
+Wide rather than deep? Expose students to many different tools they might encounter, so they know where to dig deeper when they need it. But with enough "meat" to be immediately useful -- to culture good data practices in terms of data management, data archiving, reprocucible data analysis,  skills to deal with high throughput data.
+
 
 ## Topic ideas
 
