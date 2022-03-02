@@ -44,7 +44,7 @@ Wide rather than deep? Expose students to many different tools they might encoun
 
 * Introduction to Python
     - Jupyter notebooks: introduce along with starting Python?
-    - example application: reorganizing and cleaning a file downloaded from a repository 
+    - example application: reorganizing and cleaning a flat file downloaded from a repository 
 
 * The Python Scientific Stack -- numpy, scipy, pandas, matplotlib, jupyter notebooks
 
