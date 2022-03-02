@@ -28,7 +28,7 @@ Wide rather than deep? Expose students to many different tools they might encoun
 * Data concepts
     - data and metadata
     - special data types: date, time, geolocation, etc. 
-    - special values: null
+    - special values: null, NaN
 
 * Working with tabular data -- awk, sort, join
     - example biological application: working with GFF annotation data
