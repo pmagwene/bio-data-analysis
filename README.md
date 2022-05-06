@@ -22,38 +22,38 @@ Wide rather than deep? Or generally wide, but deep in a few selected areas? Expo
 
 ## Draft high-level outline (* = more extensive modules)
 
-0	Orientation
-	• Course goals and mechanics
-	• Working with data: clean, reformat, explore, analyze, model, present, share
-	• Data science principles: FAIR, open-source, non-proprietary, etc.  
+0 Orientation
+* Course goals and mechanics
+* Working with data: clean, reformat, explore, analyze, model, present, share
+* Data science principles: FAIR, open-source, non-proprietary, etc.  
 
-1*	Unix
-	First steps: intro to Unix, UNIX file system, 
-    	Working with remote computers/file systems: curl
-	Unix basics: data wrangling tools
-	Scripting
-	Regular expressions: grep
-	Unix tools deeper dive: find, sed, awk 
+1* Unix
+* First steps: intro to Unix, UNIX file system, 
+* Working with remote computers/file systems: curl
+* Unix basics: data wrangling tools
+* Scripting
+* Regular expressions: grep
+* Unix tools deeper dive: find, sed, awk 
 
-2*	Python
-	First steps: familiarization with Jupyter/Quarto Notebooks, intro to Python
-	Basics: data structues, flow control, etc.
-	Data wranging in Python: NumPy, Pandas (but not data viz and Seaborn?)
+2* Python
+* First steps: familiarization with Jupyter/Quarto Notebooks, intro to Python
+* Basics: data structues, flow control, etc.
+* Data wranging in Python: NumPy, Pandas (but not data viz and Seaborn?)
 
-3	Programming best practices
-	It's the little things: commenting, variable names, etc.
-	Debugging 
-	Testing and validation
-	Version control: Github
-	Choosing the right tool for the job: other languages
+3 Programming best practices
+* It's the little things: commenting, variable names, etc.
+* Debugging 
+* Testing and validation
+* Version control: Github
+* Choosing the right tool for the job: other languages
 
-4*	R
-	First steps: familiarization with R Studio environment, intro to R
-	Basics: importing/exporting, base plots
-	Markdown in R or Quarto
-	Data wrangling in R: Tidyr, Dplyr
-	Advanced data viz in R: ggplot2
-	Principles of effective and ethical data visualization
+4* R
+* First steps: familiarization with R Studio environment, intro to R
+* Basics: importing/exporting, base plots
+* Markdown in R or Quarto
+* Data wrangling in R: Tidyr, Dplyr
+* Advanced data viz in R: ggplot2
+* Principles of effective and ethical data visualization
 
 5	SQL
 	Relational database concepts
