@@ -29,9 +29,9 @@ Wide rather than deep? Or generally wide, but deep in a few selected areas? Expo
 
 1*	Unix
 	First steps: intro to Unix, UNIX file system, 
-    Working with remote computers/file systems: curl
+    	Working with remote computers/file systems: curl
 	Unix basics: data wrangling tools
-    Scripting
+	Scripting
 	Regular expressions: grep
 	Unix tools deeper dive: find, sed, awk 
 
