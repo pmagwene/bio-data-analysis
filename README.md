@@ -23,9 +23,9 @@ Wide rather than deep? Or generally wide, but deep in a few selected areas? Expo
 ## Draft high-level outline (* = more extensive modules)
 
 0	Orientation
-	Course goals and mechanics
-	Working with data: clean, reformat, explore, analyze, model, present, share
-	Data science principles: FAIR, open-source, non-proprietary, etc.  
+	• Course goals and mechanics
+	• Working with data: clean, reformat, explore, analyze, model, present, share
+	• Data science principles: FAIR, open-source, non-proprietary, etc.  
 
 1*	Unix
 	First steps: intro to Unix, UNIX file system, 
