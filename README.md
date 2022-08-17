@@ -2,6 +2,14 @@
 
 Draft notes for a grad course in biological data analysis and best practices
 
+
+## Summary for Dept Chair and DGS prior to Fall 2022 Retreat
+
+We propose to develop a two-semester graduate level course, targetted at first year grad students, that willl provide an overview of practical computing concepts and data anlysis tools that are frequently used in the biological sciences. 
+
+In addition to formal coursework (a weekly 2.5 hr class session), the course will include a weekly "data lunch" where faculty, senior graduate students, and postdocs from the department will present overview of data types and data tools they use in their own research; reinforcing concepts from class and demonstrating relevance. Key goals of these data lunches are to  build community among students and students and faculty, and expose them to some of the research going on in the department.
+
+
 ## General idea
 
 Provide first year grad students with an overview of computing concepts and tools that are frequently used in the biological sciences. Along the way, build community among students and expose them to some of the research going on in the department. And also along the way, illustrate how the material presented in class is applied to everyday research projects.
