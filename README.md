@@ -5,9 +5,9 @@ Draft notes for a grad course in biological data analysis and best practices
 
 ## Summary for Dept Chair and DGS prior to Fall 2022 Retreat
 
-We propose to develop a two-semester graduate level course, targetted at first year grad students, that willl provide an overview of practical computing concepts and data anlysis tools that are frequently used in the biological sciences. 
+We propose to develop a two-semester graduate level course, targeted at first year grad students, that will provide an overview of practical computing concepts and data anlysis tools that are frequently used in the biological sciences. In addition to developing practical skills and experience with data science, a secondary (but important) goal is socialization on new biograds into the department. 
 
-In addition to formal coursework (a weekly 2.5 hr class session), the course will include a weekly "data lunch" where faculty, senior graduate students, and postdocs from the department will present overview of data types and data tools they use in their own research; reinforcing concepts from class and demonstrating relevance. Key goals of these data lunches are to  build community among students and students and faculty, and expose them to some of the research going on in the department.
+In addition to formal coursework (a weekly 2.5 hr class session), the course will include a weekly "data lunch" where faculty, senior graduate students, and postdocs from the department will present overview of data types and data tools they use in their own research, reinforcing concepts from class and demonstrating relevance. Key goals of these data lunches are to  build community among students and students and faculty, and expose them to some of the research going on in the department.
 
 
 ## General idea
@@ -20,7 +20,7 @@ Don't assume any prior programming experience. Motivate with domain-based exampl
 
 ## Structure ideas
 
-* Weekly lecture + hands-on: 2-hour classroom session
+* Weekly lecture + hands-on: 2 or 2.5-hour classroom session
 
 * Weekly data lunches: grad students from dept present overview of data types and data tools they use in their own research; reinforcing concepts from class and demonstrating relevance; TA moderates
 
@@ -28,7 +28,7 @@ Don't assume any prior programming experience. Motivate with domain-based exampl
 
 * One semester or two? -- leaning towards 2 semesters to allow time for students to absorb concepts, work through homework problems 
 
-* Integrating data visualization -- beyond the mechanics of how to make a figure, but what makes for good figure.  Drawing on Greg's prior course.
+* Integrating data visualization -- beyond the mechanics of how to make a figure, but what makes for good figure.  Drawing on Greg's current course.
 
 ## Draft high-level outline (* = more extensive modules)
 
