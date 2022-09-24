@@ -18,6 +18,25 @@ Wide rather than deep? Or generally wide, but deep in a few selected areas? Expo
 
 Don't assume any prior programming experience. Motivate with domain-based examples. Learn from Carpentries model. 
 
+## Possible references
+
+General:
+* [Computing Skills for Biologists: A Toolbox](https://computingskillsforbiologists.com/)
+
+Python:
+
+
+R:
+* [R Graphics Cookbook, 2nd edition](https://r-graphics.org/) 
+* [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
+
+Unix:
+* [Learn by Example: GNU Grep and Ripgrep](https://learnbyexample.github.io/learn_gnugrep_ripgrep/cover.html)
+* [Learn by Example: GNU Awk](https://learnbyexample.github.io/learn_gnuawk/)
+
+SQL:
+
+
 ## Structure ideas
 
 * Weekly lecture + hands-on: 2 or 2.5-hour classroom session
@@ -32,35 +51,23 @@ Don't assume any prior programming experience. Motivate with domain-based exampl
 
 ## Draft high-level outline (* = more extensive modules)
 
+
 0 Orientation
 * Course goals and mechanics
 * Working with data: clean, reformat, explore, analyze, model, present, share
 * Data science principles: FAIR, open-source, non-proprietary, etc. 
 * Help installing necessary software, familiarization with VSCode 
 
-1* Unix
+1 Unix
 * First steps: intro to Unix, UNIX file system, 
 * Working with remote computers/file systems: ssh, sftp, curl
 * Unix basics: navigating the file system, files and directories
 * Working with files: creation, viewing, comparison, permissions
-* Data wrangling tools: cat, sort, uniq, tr, cut, join
-* Scripting
-* Regular expressions: grep
-* Unix tools deeper dive: find, sed, awk 
+* Data wrangling tools: cat, sort, uniq, tr, cut, join, wc, grep, sed, awk
+* Shell Scripting
+* Regular expressions: grep, sed, awk
 
-2* Python
-* First steps: familiarization with Jupyter (or Quarto?), intro to Python
-* Basics: data structues, flow control, etc.
-* Data wranging in Python: NumPy, Pandas (but not data viz and Seaborn?)
-* What and how much more is appropriate here? 
-
-3 Programming best practices
-* It starts with the little things: commenting, variable names, choosing the right data structures, etc.
-* Debugging 
-* Testing and validation
-* Version control: Github (using Python as an example)
-
-4* R
+2 R
 * First steps: familiarization with R Studio environment, intro to R
 * Basics: importing/exporting, base plots
 * Markdown in R (or Quarto?)
@@ -69,6 +76,21 @@ Don't assume any prior programming experience. Motivate with domain-based exampl
 * Applications for biology: geospatial and genomic data 
 * Principles of effective and ethical data visualization
 * Tour of useful R packages for biologists
+
+3 Programming best practices
+* It starts with the little things: commenting, variable names, choosing the right data structures, etc.
+* Debugging 
+* Testing and validation
+* Version control: Github (using Python as an example)
+
+
+4 Python
+* First steps: familiarization with Jupyter (or Quarto?), intro to Python
+* Basics: data structues, flow control, etc.
+* Data wranging in Python: NumPy, Pandas (but not data viz and Seaborn?)
+* What and how much more is appropriate here? 
+
+
 
 5 SQL
 * Relational database concepts
@@ -84,6 +106,17 @@ Don't assume any prior programming experience. Motivate with domain-based exampl
 * Choosing the right tool for the job: these and other languages
 * Reproducibility throughout the workflow
 * Exposing data: repositories, reusability, discoverability
+
+
+### PMM Notes on sequencing:
+* I've been think about how to sequence intro of material, right now I favor the following
+
+   Unix -> R -> Python
+
+* My reasoning is as follows:
+  * Unix -- can immediately manipulate data with simple commands, introduce concepts of combining series of simple manipulations to accomplish complex tasks, emphasis on creating structured data
+  * R -- most R intros assume you've already got structured data as input. Once you've got structured data can summarize, restructure, visualize, etc
+  * Python -- least emphasis on structured data on input (until we get to NumPy / Pandas)
 
 
 ## Topic ideas: to be integrated into above structure 
