@@ -27,6 +27,7 @@ Python:
 
 
 R:
+* [R for Data Science](https://r4ds.had.co.nz/)
 * [R Graphics Cookbook, 2nd edition](https://r-graphics.org/) 
 * [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
 
