@@ -5,20 +5,20 @@
 class meets 3:05-5:00PM on Mondays in ...
 | session | date | topics |
 | ------- | ---- | ------ |
-| 01 | 28 AUG | course orientation and objectives; introduction to unix             |
+| 01 | 28 AUG | course orientation and objectives; introduction to unix and unix file system       |
 | -- | 04 SEP | no class (Labor Day) |     
-| 02 | 11 SEP | topic | 
-| 03 | 18 SEP | topic |
-| 04 | 25 SEP | topic |
-| 05 | 02 OCT | topic |
-| 06 | 09 OCT | topic |
+| 02 | 11 SEP | continuing with unix | 
+| 03 | 18 SEP | introduction to R, RStudio, and R markdown |
+| 04 | 25 SEP | more R: ggplot2 |
+| 05 | 02 OCT | more R: dplyr |
+| 06 | 09 OCT | more R: more stuff |
 | -- | 16 OCT | no class (fall break) |
-| 07 | 23 OCT | topic |
-| 08 | 30 OCT | topic |
-| 09 | 06 NOV | topic |
-| 10 | 13 NOV | topic |
-| 11 | 20 NOV | topic |
-| 12 | 27 NOV | topic |
+| 07 | 23 OCT | back to unix: regular expressions and grep |
+| 08 | 30 OCT | more unix: sed and awk |
+| 09 | 06 NOV | introduction to python and whatever IDE we land on |
+| 10 | 13 NOV | more python: data structures and flow control |
+| 11 | 20 NOV | more python: functions |
+| 12 | 27 NOV | more pthon: numpy and pandas |
 | -- | 04 DEC | no class (graduate classes end 01 DEC) |
 | -- | -- | winter break |
 | 13 | 10 JAN | topic (first day of classes; Monday schedule in effect) |  
