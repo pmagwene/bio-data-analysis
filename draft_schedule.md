@@ -2,45 +2,45 @@
 
 ## Lecture / lab
 
-class meets 3:05-5:00PM on Mondays in ...
+*class meets 3:05-5:00PM on Mondays in ...*  
 | session | date | topics |
 | ------- | ---- | ------ |
-| 01 | 28 AUG | course orientation and objectives; introduction to unix and unix file system       |
-| -- | 04 SEP | no class (Labor Day) |     
-| 02 | 11 SEP | continuing with unix | 
-| 03 | 18 SEP | introduction to R, RStudio, and R markdown |
-| 04 | 25 SEP | more R: ggplot2 |
-| 05 | 02 OCT | more R: dplyr |
-| 06 | 09 OCT | more R: more stuff |
+| 01 | 28 AUG | course orientation and objectives; introduction to unix and unix file system  |
+| -- | 04 SEP | no class (Labor Day)  |     
+| 02 | 11 SEP | unix: working with the file system and remote hosts  | 
+| 03 | 18 SEP | unix: manipulating files  |
+| 04 | 25 SEP | R: introduction to R, RStudio, and R markdown  |
+| 05 | 02 OCT | R: visualization with ggplot2  |
+| 06 | 09 OCT | R: data structures and programming basics  |
 | -- | 16 OCT | no class (fall break) |
-| 07 | 23 OCT | back to unix: regular expressions and grep |
-| 08 | 30 OCT | more unix: sed and awk |
-| 09 | 06 NOV | introduction to python and whatever IDE we land on |
-| 10 | 13 NOV | more python: data structures and flow control |
-| 11 | 20 NOV | more python: functions |
-| 12 | 27 NOV | more pthon: numpy and pandas |
-| -- | 04 DEC | no class (graduate classes end 01 DEC) |
+| 07 | 23 OCT | R: pipes; data wrangling with dplyr  |
+| 08 | 30 OCT | R: more data wrangling: strings, factors, and date-time objects  |
+| 09 | 06 NOV | unix: regular expressions and grep |
+| 10 | 13 NOV | unix: sed and awk; shell scripting  |
+| 11 | 20 NOV | python: introduction to python and whatever IDE we land on  |
+| 12 | 27 NOV | python: data structures and programming basics  |
+| -- | 04 DEC | no class (graduate classes end 01 DEC)  |
 | -- | -- | winter break |
-| 13 | 10 JAN | topic (first day of classes; Monday schedule in effect) |  
-| -- | 15 JAN | no class (Martin Luther King Day) |
-| 14 | 22 JAN | topic |
-| 15 | 29 JAN | topic |
-| 16 | 05 FEB | topic |
-| 17 | 12 FEB | topic |
-| 18 | 19 FEB | topic |
-| 19 | 26 FEB | topic |
-| 20 | 05 MAR | topic |
+| 13 | 10 JAN | python: flow and functions  (FDOC; Monday schedule in effect) |  
+| -- | 15 JAN | no class (Martin Luther King Day)  |
+| 14 | 22 JAN | python: numpy and pandas  |
+| 15 | 29 JAN | python: debugging and validation   |
+| 16 | 05 FEB | python: object-oriented programming   |
+| 17 | 12 FEB | sql: relational databases; introduction to sqlite  |
+| 18 | 19 FEB | sql: select; join; queries using R and python  |
+| 19 | 26 FEB | version control: git and github  |
+| 20 | 05 MAR | best practices: data and code management  |
 | -- | 11 MAR | no class (spring break) |
-| 21 | 18 MAR | topic |
-| 22 | 25 MAR | topic |
-| 23 | 01 APR | topic |
-| 24 | 08 APR | topic |
-| 25 | 15 APR | topic |
-| -- | 22 APR | no class (graduate classes end 17 APR) |
+| 21 | 18 MAR | best practices: visualization, part 1  |
+| 22 | 25 MAR | best practices: visualization, part 2  |
+| 23 | 01 APR | domain-specific modules, part 1  |
+| 24 | 08 APR | domain-specific modules, part 2  |
+| 25 | 15 APR | wrap-up and summary  |
+| -- | 22 APR | no class (graduate classes end 17 APR)  |
 
 ## Data lunch
 
-class meets 12:00-1:00PM on Wednesdays in ...
+*class meets 12:00-1:00PM on Thursdays in ...*  
 | session | date | topics |
 | ------- | ---- | ------ |
 | 01 | 31 AUG | TA introduction and discussion |
@@ -66,7 +66,7 @@ class meets 12:00-1:00PM on Wednesdays in ...
 | 18 | 08 FEB | speaker |
 | 19 | 15 FEB | speaker |
 | 20 | 22 FEB | speaker |
-| 21 | 29 FEB | speaker (leap day; discuss challenges in computing with dates?) |
+| 21 | 29 FEB | speaker (leap day; discuss challenges computing with dates?) |
 | 22 | 07 MAR | speaker |
 | -- | 14 MAR | no class (spring break) |
 | 23 | 21 MAR | speaker |
@@ -74,7 +74,8 @@ class meets 12:00-1:00PM on Wednesdays in ...
 | 25 | 04 APR | speaker |
 | 26 | 11 APR | speaker |
 | -- | 18 APR | no class (graduate classes end 17 APR) |speaker |
-
-
-
-
+  
+  
+**Ideas for domain-specific modules:** geospatial (?), genomes (many), functional genomics (many), images (Sherwood), ecology (Kerr), behavior (Alberts), population genetics (Willis), quantitative genetics (?), phylogenetics (Lutzoni)  
+**Ideas for faculty lunch speakers:** Gibert, Donohue, Schmid, D Sherwood, Baugh, Volkan, Wright, Yoder (want a mix of topics and approaches; should be cheerful interlocutors; aim for 4 per semester?)  
+**Ideas for trainee lunch speakers:** we will need about 8 per semester; a mix of more senior grad students and postdocs; could potentially draw speakers from other programs and departments
