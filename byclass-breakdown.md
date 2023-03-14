@@ -1,5 +1,5 @@
 
-# Class Session 1
+## Class Session 1
 
 * Intro
 
