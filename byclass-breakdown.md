@@ -3,7 +3,7 @@
 
 ## Intro
 
-## Understanding your filesystem
+## Understanding your computer and filesystem
 
 ## Getting oriented in RStudio (and Quarto?) and RMarkdown
 
