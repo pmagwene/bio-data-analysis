@@ -1,10 +1,10 @@
 
 # Class Session 1
 
-## Intro
+* Intro
 
-## Understanding your computer and filesystem
+* Understanding your computer and filesystem
 
-## Getting oriented in RStudio (and Quarto?) and RMarkdown
+* Getting oriented in RStudio (and Quarto?) and RMarkdown
 
-## Loading some data and drawing some figures
+* Loading some data and drawing some figures
