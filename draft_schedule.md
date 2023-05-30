@@ -43,16 +43,16 @@
 *class meets 12:00-1:00PM on Thursdays in Biological Sciences room 155*  
 | session | date | topics |
 | ------- | ---- | ------ |
-| 01 | 31 AUG | TA introduction and discussion |
-| 02 | 07 SEP | instructors: introductions |     
-| 03 | 14 SEP | instructors: trouble-shooting homework | 
-| 04 | 21 SEP | instructor 1: data lunch | 
-| 05 | 28 SEP | instructor 2: data lunch | 
-| 06 | 05 OCT | instructor 3: data lunch | 
+| 01 | 31 AUG | instructor introductions and discussion |
+| 02 | 07 SEP | instructors: trouble-shooting homework |     
+| 03 | 14 SEP | instructor 1: data lunch | 
+| 04 | 21 SEP | instructor 2: data lunch | 
+| 05 | 28 SEP | instructor 3: data lunch | 
+| 06 | 05 OCT | TBD: data lunch | 
 | 07 | 12 OCT | bio IT team / library: computing / learning resources | 
-| 08 | 19 OCT | TBD: LLMs and data science | 
+| 08 | 19 OCT | TBD: data lunch | 
 | 09 | 26 OCT | TBD: data lunch | 
-| 10 | 02 NOV | TBD: data lunch | 
+| 10 | 02 NOV | TBD: LLMs and data science  | 
 | 11 | 09 NOV | TBD: data lunch | 
 | 12 | 16 NOV | TBD: data lunch | 
 | -- | 23 NOV | no class (Thanksgiving break) | 
@@ -67,7 +67,7 @@
 | 19 | 15 FEB | speaker |
 | 20 | 22 FEB | speaker |
 | 21 | 29 FEB | speaker (leap day; discuss challenges computing with dates?) |
-| 22 | 07 MAR | speaker |
+| 22 | 07 MAR | speaker Jake Gordan ? |
 | -- | 14 MAR | no class (spring break) |
 | 23 | 21 MAR | speaker |
 | 24 | 28 MAR | speaker |
