@@ -16,8 +16,8 @@
 | 07 | 23 OCT | R: more filtering and regular expressions  |
 | 08 | 30 OCT | unix: introduction to unix; navigating the file system  |
 | 09 | 06 NOV | unix: data processing  |
-| 10 | 13 NOV | unix: sed and awk; shell scripting  |
-| 11 | 20 NOV | best practices: data and code management  |
+| 10 | 13 NOV | unix: sed and awk  |
+| 11 | 20 NOV | unix: shell scripting  |
 | 12 | 27 NOV | semester wrap-up: lessons learned; project scrums |
 | -- | 04 DEC | no class (graduate classes end 01 DEC)  |
 | -- | -- | winter break |
@@ -31,7 +31,7 @@
 | 19 | 26 FEB | sql: relational databases; introduction to sqlite  |
 | 20 | 05 MAR | sql: select; join; queries using R and python  |
 | -- | 11 MAR | no class (spring break) |
-| 21 | 18 MAR | best practices: version control with git and github   |
+| 21 | 18 MAR | best practices: data and code management; version control  |
 | 22 | 25 MAR | best practices: visualization  |
 | 23 | 01 APR | domain-specific modules, part 1  |
 | 24 | 08 APR | domain-specific modules, part 2  |
